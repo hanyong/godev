@@ -4,4 +4,4 @@ import (
 
 )
 
-const Version = 0.9
+const Version = "0.9"
